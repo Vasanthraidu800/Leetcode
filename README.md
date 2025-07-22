@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Vasanthraidu800/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Vasanthraidu800/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2619-categorize-box-according-to-criteria](https://github.com/Vasanthraidu800/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 ## Enumeration
 |  |
 | ------- |
