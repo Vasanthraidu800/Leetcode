@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Vasanthraidu800/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Vasanthraidu800/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Sliding Window
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/Vasanthraidu800/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vasanthraidu800/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/Vasanthraidu800/Leetcode/tree/master/2752-sum-multiples) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Vasanthraidu800/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Enumeration
 |  |
 | ------- |
