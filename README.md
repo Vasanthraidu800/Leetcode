@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Vasanthraidu800/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
+| [2722-prime-in-diagonal](https://github.com/Vasanthraidu800/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Vasanthraidu800/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vasanthraidu800/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2722-prime-in-diagonal](https://github.com/Vasanthraidu800/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/Vasanthraidu800/Leetcode/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Vasanthraidu800/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Enumeration
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Vasanthraidu800/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2722-prime-in-diagonal](https://github.com/Vasanthraidu800/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Geometry
 |  |
 | ------- |
@@ -54,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vasanthraidu800/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Matrix
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/Vasanthraidu800/Leetcode/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
