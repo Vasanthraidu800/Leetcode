@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Vasanthraidu800/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
+| [1954-replace-all-digits-with-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vasanthraidu800/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2727-number-of-senior-citizens](https://github.com/Vasanthraidu800/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
