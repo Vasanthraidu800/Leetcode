@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1651-shuffle-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/Vasanthraidu800/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/Vasanthraidu800/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
