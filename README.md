@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1651-shuffle-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1651-shuffle-string) |
 | [1813-maximum-erasure-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Vasanthraidu800/Leetcode/tree/master/2722-prime-in-diagonal) |
 ## Counting
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Vasanthraidu800/Leetcode/tree/master/1894-merge-strings-alternately) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
