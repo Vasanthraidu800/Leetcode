@@ -1,4 +1,6 @@
 class Solution {
+    //o-->open
+    //c-->close
     void Create(int n,int o,int c,string s,vector<string>&result)
     {
         if(o==n && c==n)
@@ -6,12 +8,14 @@ class Solution {
             result.push_back(s);
             return;
         }
+        //as long as open brackets less than n
         if(o<n)
         {
             s.push_back('(');
             Create(n,o+1,c,s,result);
             s.pop_back();
         }
+        // as long as open brackets less than close brackets
         if(c<o)
         {
             s.push_back(')');
@@ -23,6 +27,7 @@ public:
     vector<string> generateParenthesis(int n) {
         vector<string>result;
         string s;
+        //initially set open and close to 0
         Create(n,0,0,s,result);
         return result;
     }
