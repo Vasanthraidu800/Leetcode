@@ -2,7 +2,7 @@ class Solution {
 public:
     bool checkIfPangram(string sentence) {
         int n =sentence.size();
-        map<char,int>mpp;
+        unordered_map<char,int>mpp;
         for(char ch:sentence)
         {
             mpp[ch]++;
