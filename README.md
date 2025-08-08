@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0204-count-primes) |
+| [0826-soup-servings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0826-soup-servings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2507-number-of-common-factors](https://github.com/Vasanthraidu800/Leetcode/tree/master/2507-number-of-common-factors) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
+| [0826-soup-servings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0826-soup-servings) |
 ## Backtracking
 |  |
 | ------- |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
