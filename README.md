@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vasanthraidu800/Leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Vasanthraidu800/Leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0826-soup-servings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -224,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vasanthraidu800/Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vasanthraidu800/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
