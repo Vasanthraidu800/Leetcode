@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Vasanthraidu800/Leetcode/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1651-shuffle-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vasanthraidu800/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Vasanthraidu800/Leetcode/tree/master/0561-array-partition) |
+| [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vasanthraidu800/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Matrix
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Vasanthraidu800/Leetcode/tree/master/0443-string-compression) |
+| [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Vasanthraidu800/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Vasanthraidu800/Leetcode/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 ## Bucket Sort
 |  |
 | ------- |
