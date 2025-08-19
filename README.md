@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Vasanthraidu800/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Vasanthraidu800/Leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Vasanthraidu800/Leetcode/tree/master/0443-string-compression) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Vasanthraidu800/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/Vasanthraidu800/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vasanthraidu800/Leetcode/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/Vasanthraidu800/Leetcode/tree/master/0162-find-peak-element) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vasanthraidu800/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Vasanthraidu800/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vasanthraidu800/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vasanthraidu800/Leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Vasanthraidu800/Leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
