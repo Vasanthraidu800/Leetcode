@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1651-shuffle-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1651-shuffle-string) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vasanthraidu800/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-convert-to-base-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/1070-convert-to-base-2) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1585-the-kth-factor-of-n](https://github.com/Vasanthraidu800/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2507-number-of-common-factors](https://github.com/Vasanthraidu800/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/Vasanthraidu800/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Vasanthraidu800/Leetcode/tree/master/0561-array-partition) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vasanthraidu800/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Matrix
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0948-sort-an-array) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
