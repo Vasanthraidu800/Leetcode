@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0742-to-lower-case](https://github.com/Vasanthraidu800/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Vasanthraidu800/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Vasanthraidu800/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1651-shuffle-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1651-shuffle-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1010-powerful-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1010-powerful-integers) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Vasanthraidu800/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1813-maximum-erasure-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/Vasanthraidu800/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Vasanthraidu800/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
