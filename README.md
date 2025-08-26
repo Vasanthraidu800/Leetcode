@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vasanthraidu800/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Vasanthraidu800/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3379-score-of-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3379-score-of-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vasanthraidu800/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Vasanthraidu800/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
