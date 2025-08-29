@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/Vasanthraidu800/Leetcode/tree/master/2752-sum-multiples) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Vasanthraidu800/Leetcode/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2831-number-of-beautiful-pairs](https://github.com/Vasanthraidu800/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Enumeration
 |  |
