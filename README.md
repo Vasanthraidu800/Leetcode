@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Vasanthraidu800/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Vasanthraidu800/Leetcode/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0330-patching-array) |
+| [0402-remove-k-digits](https://github.com/Vasanthraidu800/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Vasanthraidu800/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -354,4 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Vasanthraidu800/Leetcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Vasanthraidu800/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
