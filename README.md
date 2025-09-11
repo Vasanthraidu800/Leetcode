@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
+| [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vasanthraidu800/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Vasanthraidu800/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vasanthraidu800/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Matrix
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0948-sort-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vasanthraidu800/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Vasanthraidu800/Leetcode/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0948-sort-an-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 ## Segment Tree
 |  |
 | ------- |
