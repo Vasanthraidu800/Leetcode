@@ -26,7 +26,7 @@ class Solution {
 
         }
         int cnt=0;
-        for(String key : words1)
+        for(String key :map1.keySet())
         {
             if(map1.get(key)==1 && map2.containsKey(key) && map2.get(key)==1)
             cnt++;
