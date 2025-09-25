@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vasanthraidu800/Leetcode/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/0120-triangle) |
 | [0162-find-peak-element](https://github.com/Vasanthraidu800/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Vasanthraidu800/Leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0189-rotate-array) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
+| [0120-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/0120-triangle) |
 | [0826-soup-servings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0826-soup-servings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Backtracking
