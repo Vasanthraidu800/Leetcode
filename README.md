@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Vasanthraidu800/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/Vasanthraidu800/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0658-find-k-closest-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Vasanthraidu800/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/Vasanthraidu800/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vasanthraidu800/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0891-score-after-flipping-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0891-score-after-flipping-matrix) |
