@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Vasanthraidu800/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/Vasanthraidu800/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Vasanthraidu800/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vasanthraidu800/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1813-maximum-erasure-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1873-longest-nice-substring](https://github.com/Vasanthraidu800/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Vasanthraidu800/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vasanthraidu800/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0891-score-after-flipping-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [1873-longest-nice-substring](https://github.com/Vasanthraidu800/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Vasanthraidu800/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Stack
