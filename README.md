@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vasanthraidu800/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vasanthraidu800/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vasanthraidu800/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vasanthraidu800/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vasanthraidu800/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vasanthraidu800/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
