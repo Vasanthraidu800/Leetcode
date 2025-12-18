@@ -561,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Vasanthraidu800/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
