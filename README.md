@@ -565,5 +565,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/Vasanthraidu800/Leetcode/tree/master/0584-find-customer-referee) |
+| [0610-triangle-judgement](https://github.com/Vasanthraidu800/Leetcode/tree/master/0610-triangle-judgement) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vasanthraidu800/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
