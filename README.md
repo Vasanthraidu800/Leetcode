@@ -568,5 +568,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Vasanthraidu800/Leetcode/tree/master/0595-big-countries) |
 | [0610-triangle-judgement](https://github.com/Vasanthraidu800/Leetcode/tree/master/0610-triangle-judgement) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vasanthraidu800/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1729-find-followers-count](https://github.com/Vasanthraidu800/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Vasanthraidu800/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
