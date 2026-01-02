@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vasanthraidu800/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1010-powerful-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1010-powerful-integers) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vasanthraidu800/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
