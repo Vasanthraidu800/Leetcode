@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0179-largest-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Vasanthraidu800/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vasanthraidu800/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Vasanthraidu800/Leetcode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/Vasanthraidu800/Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0409-longest-palindrome) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vasanthraidu800/Leetcode/tree/master/0075-sort-colors) |
 | [0164-maximum-gap](https://github.com/Vasanthraidu800/Leetcode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Vasanthraidu800/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0229-majority-element-ii) |
