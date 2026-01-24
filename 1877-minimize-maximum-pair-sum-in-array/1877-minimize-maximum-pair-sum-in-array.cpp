@@ -8,7 +8,6 @@ public:
         {
             sum.push_back(nums[i]+nums[n-1-i]);
         }
-        sort(sum.begin(),sum.end());
-        return sum[(n/2)-1];
+        return *max_element(sum.begin(),sum.end());
     }
 };
