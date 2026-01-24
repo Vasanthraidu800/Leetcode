@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vasanthraidu800/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vasanthraidu800/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vasanthraidu800/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vasanthraidu800/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vasanthraidu800/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Vasanthraidu800/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/Vasanthraidu800/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vasanthraidu800/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vasanthraidu800/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
