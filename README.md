@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1200-minimum-absolute-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vasanthraidu800/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vasanthraidu800/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0948-sort-an-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
