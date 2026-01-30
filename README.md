@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vasanthraidu800/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
