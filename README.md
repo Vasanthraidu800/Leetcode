@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vasanthraidu800/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Vasanthraidu800/Leetcode/tree/master/0504-base-7) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0696-count-binary-substrings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Vasanthraidu800/Leetcode/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/Vasanthraidu800/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vasanthraidu800/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/Vasanthraidu800/Leetcode/tree/master/1894-merge-strings-alternately) |
