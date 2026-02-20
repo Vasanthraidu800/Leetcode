@@ -1,6 +1,8 @@
-/* Write your PL/SQL query statement below */
-SELECT id AS id, case when p_id is null then 'Root'
-when id in(select p_id from tree) then 'Inner'
-else 'Leaf'
-end as "type"
-from tree;
+# Write your MySQL query statement below
+select id, 
+CASE 
+    WHEN P_id is NULL Then 'Root'
+    WHEN id IN (select p_id from tree) THEN 'Inner'
+    ELSE 'Leaf'
+END AS type
+FROM tree;
