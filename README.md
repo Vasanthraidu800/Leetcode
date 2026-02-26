@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Vasanthraidu800/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vasanthraidu800/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
 | [1651-shuffle-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1651-shuffle-string) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vasanthraidu800/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vasanthraidu800/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-score-after-flipping-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vasanthraidu800/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1873-longest-nice-substring](https://github.com/Vasanthraidu800/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
