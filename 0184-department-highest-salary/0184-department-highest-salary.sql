@@ -1,9 +1,15 @@
-# Write your MySQL query statement below
-select d.name as Department, e.name as Employee, e.salary as Salary from
-Employee e
-join 
-Department d
-on e.departmentId = d.id
-where (d.id, Salary) IN
-(select departmentId, max(salary) from Employee  
-group by departmentId);
+/* Write your PL/SQL query statement below */
+/* Write your PL/SQL query statement below */
+SELECT  Department , Employee , Salary
+FROM(
+    SELECT 
+       d.name AS Department,
+       e.name AS Employee,
+       e.salary as Salary,
+       DENSE_RANK() OVER( PARTITION BY d.id ORDER BY e.salary DESC) 
+       AS rank
+FROM EMPLOYEE e
+INNER JOIN DEPARTMENT d
+ON e.departmentId = d.id
+)
+WHERE rank<=1;
