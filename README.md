@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3636-check-balanced-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3636-check-balanced-string) |
 | [3798-largest-even-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/3798-largest-even-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Vasanthraidu800/Leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Array
 |  |
 | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vasanthraidu800/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vasanthraidu800/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vasanthraidu800/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Vasanthraidu800/Leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Matrix
 |  |
 | ------- |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Vasanthraidu800/Leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Recursion
 |  |
 | ------- |
