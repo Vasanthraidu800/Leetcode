@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vasanthraidu800/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vasanthraidu800/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1980-find-unique-binary-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vasanthraidu800/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2722-prime-in-diagonal](https://github.com/Vasanthraidu800/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
