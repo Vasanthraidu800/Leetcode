@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Vasanthraidu800/Leetcode/tree/master/0742-to-lower-case) |
+| [0763-partition-labels](https://github.com/Vasanthraidu800/Leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Vasanthraidu800/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/Vasanthraidu800/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vasanthraidu800/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vasanthraidu800/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Vasanthraidu800/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/Vasanthraidu800/Leetcode/tree/master/0763-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1010-powerful-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1010-powerful-integers) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Vasanthraidu800/Leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vasanthraidu800/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Vasanthraidu800/Leetcode/tree/master/0670-maximum-swap) |
+| [0763-partition-labels](https://github.com/Vasanthraidu800/Leetcode/tree/master/0763-partition-labels) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vasanthraidu800/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0891-score-after-flipping-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0891-score-after-flipping-matrix) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/Vasanthraidu800/Leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Vasanthraidu800/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
