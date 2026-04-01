@@ -21,7 +21,7 @@ class Solution {
             minDiff = Math.min(minDiff, diff);
         }
 
-        // Step 4: Check circular difference (last and first)
+        //Checking  circular difference (last and first)
         int circularDiff = 1440 - list.get(list.size() - 1) + list.get(0);
         minDiff = Math.min(minDiff, circularDiff);
 
