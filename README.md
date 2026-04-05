@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Vasanthraidu800/Leetcode/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Vasanthraidu800/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0657-robot-return-to-origin](https://github.com/Vasanthraidu800/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/Vasanthraidu800/Leetcode/tree/master/0742-to-lower-case) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Vasanthraidu800/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Vasanthraidu800/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vasanthraidu800/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vasanthraidu800/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
