@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vasanthraidu800/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0874-walking-robot-simulation](https://github.com/Vasanthraidu800/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Vasanthraidu800/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/Vasanthraidu800/Leetcode/tree/master/0763-partition-labels) |
+| [0874-walking-robot-simulation](https://github.com/Vasanthraidu800/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1010-powerful-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1010-powerful-integers) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Vasanthraidu800/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Vasanthraidu800/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/Vasanthraidu800/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vasanthraidu800/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vasanthraidu800/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
