@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> kSmallestPairs(int[] a, int[] b, int k) {
         List<List<Integer>> res = new ArrayList<>();
