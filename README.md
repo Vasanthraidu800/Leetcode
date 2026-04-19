@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Vasanthraidu800/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1829-maximum-units-on-a-truck](https://github.com/Vasanthraidu800/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vasanthraidu800/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vasanthraidu800/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasanthraidu800/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vasanthraidu800/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/Vasanthraidu800/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasanthraidu800/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vasanthraidu800/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vasanthraidu800/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3488-closest-equal-element-queries](https://github.com/Vasanthraidu800/Leetcode/tree/master/3488-closest-equal-element-queries) |
