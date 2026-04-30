@@ -1,16 +1,24 @@
 class Solution {
 public:
     int partitionString(string s) {
-        int ans = 1;
-        unordered_set<char> st;
-        for(char ch : s) {
-            if(st.count(ch)) {
-                ans++;
-                st.clear();
-            }
+        vector<char> v;
+        int cnt = 1;
 
-            st.insert(ch);
+        for(char ch : s) {
+            bool found = false;
+            for(char x : v) {
+                if(x == ch) {
+                    found = true;
+                    break;
+                }
+            }
+            if(found) {
+                cnt++;
+                v.clear();
+            }
+            v.push_back(ch);
         }
-        return ans;
+
+        return cnt;
     }
 };
