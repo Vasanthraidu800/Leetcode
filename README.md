@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vasanthraidu800/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2405-optimal-partition-of-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/Vasanthraidu800/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2833-furthest-point-from-origin](https://github.com/Vasanthraidu800/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vasanthraidu800/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2405-optimal-partition-of-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2615-sum-of-distances](https://github.com/Vasanthraidu800/Leetcode/tree/master/2615-sum-of-distances) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Vasanthraidu800/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Vasanthraidu800/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2405-optimal-partition-of-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vasanthraidu800/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vasanthraidu800/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
