@@ -16,7 +16,7 @@ public:
                 else
                     l = mid + 1;
             }
-            // Right half is sorted
+        
             else {
                 if (nums[mid] < target && target <= nums[r])
                     l = mid + 1;
