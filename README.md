@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vasanthraidu800/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vasanthraidu800/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vasanthraidu800/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vasanthraidu800/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1813-maximum-erasure-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1813-maximum-erasure-value) |
