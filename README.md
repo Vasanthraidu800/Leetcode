@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Vasanthraidu800/Leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Vasanthraidu800/Leetcode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Vasanthraidu800/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Vasanthraidu800/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Vasanthraidu800/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Vasanthraidu800/Leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Vasanthraidu800/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vasanthraidu800/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
