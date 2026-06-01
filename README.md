@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vasanthraidu800/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vasanthraidu800/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vasanthraidu800/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vasanthraidu800/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Vasanthraidu800/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vasanthraidu800/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2405-optimal-partition-of-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vasanthraidu800/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vasanthraidu800/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vasanthraidu800/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2463-minimum-total-distance-traveled](https://github.com/Vasanthraidu800/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
