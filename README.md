@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Vasanthraidu800/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vasanthraidu800/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vasanthraidu800/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Vasanthraidu800/Leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Matrix
 |  |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2540-minimum-common-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Vasanthraidu800/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vasanthraidu800/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/Vasanthraidu800/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vasanthraidu800/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Bucket Sort
 |  |
