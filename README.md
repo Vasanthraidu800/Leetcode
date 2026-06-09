@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0165-compare-version-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/Vasanthraidu800/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vasanthraidu800/Leetcode/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/Vasanthraidu800/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vasanthraidu800/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Vasanthraidu800/Leetcode/tree/master/0290-word-pattern) |
