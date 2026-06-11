@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Vasanthraidu800/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1436-destination-city](https://github.com/Vasanthraidu800/Leetcode/tree/master/1436-destination-city) |
+| [1470-shuffle-the-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vasanthraidu800/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
