@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vasanthraidu800/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vasanthraidu800/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Vasanthraidu800/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0874-walking-robot-simulation](https://github.com/Vasanthraidu800/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0891-score-after-flipping-matrix) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Vasanthraidu800/Leetcode/tree/master/0763-partition-labels) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Vasanthraidu800/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0844-backspace-string-compare](https://github.com/Vasanthraidu800/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Vasanthraidu800/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vasanthraidu800/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Vasanthraidu800/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasanthraidu800/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vasanthraidu800/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Vasanthraidu800/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Vasanthraidu800/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0905-sort-array-by-parity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -723,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Vasanthraidu800/Leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/Vasanthraidu800/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0948-sort-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vasanthraidu800/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
