@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1207-unique-number-of-occurrences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-jump-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1306-jump-game-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vasanthraidu800/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-powerful-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1010-powerful-integers) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vasanthraidu800/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1345-jump-game-iv](https://github.com/Vasanthraidu800/Leetcode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
