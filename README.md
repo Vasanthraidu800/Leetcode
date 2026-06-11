@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Vasanthraidu800/Leetcode/tree/master/0763-partition-labels) |
 | [0806-number-of-lines-to-write-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Vasanthraidu800/Leetcode/tree/master/0844-backspace-string-compare) |
+| [1002-find-common-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1002-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/Vasanthraidu800/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vasanthraidu800/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1002-find-common-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Vasanthraidu800/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1002-find-common-characters) |
 | [1010-powerful-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1010-powerful-integers) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vasanthraidu800/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
