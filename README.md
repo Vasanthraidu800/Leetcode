@@ -951,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/Vasanthraidu800/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Vasanthraidu800/Leetcode/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Vasanthraidu800/Leetcode/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vasanthraidu800/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Vasanthraidu800/Leetcode/tree/master/0595-big-countries) |
 | [0608-tree-node](https://github.com/Vasanthraidu800/Leetcode/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Vasanthraidu800/Leetcode/tree/master/0610-triangle-judgement) |
