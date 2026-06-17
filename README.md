@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1306-jump-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1306-jump-game-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vasanthraidu800/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vasanthraidu800/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1345-jump-game-iv](https://github.com/Vasanthraidu800/Leetcode/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1328-break-a-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/1328-break-a-palindrome) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vasanthraidu800/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
