@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vasanthraidu800/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Vasanthraidu800/Leetcode/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vasanthraidu800/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vasanthraidu800/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Vasanthraidu800/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/0221-maximal-square) |
