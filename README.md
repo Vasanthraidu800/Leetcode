@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Vasanthraidu800/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1002-find-common-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1002-find-common-characters) |
+| [1154-day-of-the-year](https://github.com/Vasanthraidu800/Leetcode/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/Vasanthraidu800/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Vasanthraidu800/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1070-convert-to-base-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/1070-convert-to-base-2) |
+| [1154-day-of-the-year](https://github.com/Vasanthraidu800/Leetcode/tree/master/1154-day-of-the-year) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vasanthraidu800/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vasanthraidu800/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
