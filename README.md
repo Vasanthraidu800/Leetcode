@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Vasanthraidu800/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vasanthraidu800/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Vasanthraidu800/Leetcode/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1980-find-unique-binary-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vasanthraidu800/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
