@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/Vasanthraidu800/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3636-check-balanced-string) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3798-largest-even-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/3798-largest-even-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Vasanthraidu800/Leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Vasanthraidu800/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/Vasanthraidu800/Leetcode/tree/master/3830-find-closest-person) |
 | [4039-compute-decimal-representation](https://github.com/Vasanthraidu800/Leetcode/tree/master/4039-compute-decimal-representation) |
 ## Enumeration
@@ -987,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Stack
 |  |
 | ------- |
