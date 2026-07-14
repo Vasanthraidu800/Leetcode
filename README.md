@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Vasanthraidu800/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Vasanthraidu800/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0806-number-of-lines-to-write-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
+| [0845-longest-mountain-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0874-walking-robot-simulation](https://github.com/Vasanthraidu800/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0891-score-after-flipping-matrix) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1010-powerful-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1010-powerful-integers) |
 | [1925-count-square-sum-triples](https://github.com/Vasanthraidu800/Leetcode/tree/master/1925-count-square-sum-triples) |
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Vasanthraidu800/Leetcode/tree/master/0763-partition-labels) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Vasanthraidu800/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0844-backspace-string-compare](https://github.com/Vasanthraidu800/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0845-longest-mountain-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasanthraidu800/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -873,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vasanthraidu800/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-soup-servings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0826-soup-servings) |
+| [0845-longest-mountain-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
