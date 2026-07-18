@@ -11,15 +11,15 @@ public:
 
         // Put all other characters
         for(char c : s) {
-            if(c != x && c != y)
+            if( c != y)
                 res += c;
         }
 
-        // Put all x last
-        for(char c : s) {
-            if(c == x)
-                res += c;
-        }
+        // // Put all x last
+        // for(char c : s) {
+        //     if(c == x)
+        //         res += c;
+        // }
 
         return res;
     }
