@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3379-score-of-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3606-coupon-code-validator](https://github.com/Vasanthraidu800/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3636-check-balanced-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Vasanthraidu800/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
