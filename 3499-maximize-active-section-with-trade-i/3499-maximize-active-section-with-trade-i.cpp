@@ -4,7 +4,7 @@ public:
 
         int ones = 0;
         for (char c : s)
-            if (c == '1') ones++;
+            ones += (c == '1');
 
         string t = "1" + s + "1";
 
@@ -19,13 +19,14 @@ public:
 
         int ans = ones;
 
-        for (int i = 1; i + 1 < v.size(); i++) {
-            if (v[i].first == '1' &&
-                v[i - 1].first == '0' &&
-                v[i + 1].first == '0') {
+        // only interior 1-blocks are removable
+        for (int i = 2; i + 2 < (int)v.size(); i++) {
 
-                ans = max(ans, ones + v[i - 1].second + v[i + 1].second);
-            }
+            if (v[i].first != '1') continue;
+            if (v[i - 1].first != '0') continue;
+            if (v[i + 1].first != '0') continue;
+
+            ans = max(ans, ones + v[i - 1].second + v[i + 1].second);
         }
 
         return ans;
