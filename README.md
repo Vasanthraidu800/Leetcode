@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vasanthraidu800/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vasanthraidu800/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vasanthraidu800/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Vasanthraidu800/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vasanthraidu800/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2270-number-of-ways-to-split-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/2032-two-out-of-three) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vasanthraidu800/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Vasanthraidu800/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vasanthraidu800/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2405-optimal-partition-of-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -668,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vasanthraidu800/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Vasanthraidu800/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/Vasanthraidu800/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Vasanthraidu800/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
@@ -826,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vasanthraidu800/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Vasanthraidu800/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Vasanthraidu800/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
