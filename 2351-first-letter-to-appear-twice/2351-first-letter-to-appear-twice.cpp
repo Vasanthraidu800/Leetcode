@@ -1,12 +1,12 @@
 class Solution {
 public:
     char repeatedCharacter(string s) {
-        unordered_set<char> st;
+        int freq[26] = {0};
 
         for (char ch : s) {
-            if (st.count(ch))
+            freq[ch - 'a']++;
+            if (freq[ch - 'a'] == 2)
                 return ch;
-            st.insert(ch);
         }
 
         return ' ';
