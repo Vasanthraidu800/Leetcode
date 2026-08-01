@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0932-beautiful-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0932-beautiful-array) |
 | [0948-sort-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Vasanthraidu800/Leetcode/tree/master/0763-partition-labels) |
 | [0874-walking-robot-simulation](https://github.com/Vasanthraidu800/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0923-3sum-with-multiplicity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-find-common-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1002-find-common-characters) |
 | [1010-powerful-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1010-powerful-integers) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vasanthraidu800/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [0923-3sum-with-multiplicity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Vasanthraidu800/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vasanthraidu800/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vasanthraidu800/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -823,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/Vasanthraidu800/Leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0948-sort-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0948-sort-an-array) |
 | [0976-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
