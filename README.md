@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0845-longest-mountain-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0874-walking-robot-simulation](https://github.com/Vasanthraidu800/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0891-score-after-flipping-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Vasanthraidu800/Leetcode/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0826-soup-servings) |
+| [0877-stone-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0932-beautiful-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0932-beautiful-array) |
@@ -953,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Vasanthraidu800/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-soup-servings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0826-soup-servings) |
 | [0845-longest-mountain-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1061,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/0877-stone-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Prefix Sum
