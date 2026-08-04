@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Vasanthraidu800/Leetcode/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Vasanthraidu800/Leetcode/tree/master/0475-heaters) |
+| [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Vasanthraidu800/Leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/0326-power-of-three) |
 | [0447-number-of-boomerangs](https://github.com/Vasanthraidu800/Leetcode/tree/master/0447-number-of-boomerangs) |
+| [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/Vasanthraidu800/Leetcode/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0593-valid-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/0593-valid-square) |
@@ -954,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/0221-maximal-square) |
 | [0435-non-overlapping-intervals](https://github.com/Vasanthraidu800/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Vasanthraidu800/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-soup-servings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0826-soup-servings) |
 | [0845-longest-mountain-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vasanthraidu800/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1067,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1406-stone-game-iii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -1207,9 +1212,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
