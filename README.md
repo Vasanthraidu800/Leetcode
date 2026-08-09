@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1140-stone-game-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1070-convert-to-base-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/1070-convert-to-base-2) |
+| [1140-stone-game-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Vasanthraidu800/Leetcode/tree/master/1154-day-of-the-year) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vasanthraidu800/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1330-reverse-subarray-to-maximize-array-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/1330-reverse-subarray-to-maximize-array-value) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1406-stone-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1092,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1406-stone-game-iii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [3462-vowels-game-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -1102,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Vasanthraidu800/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1140-stone-game-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1140-stone-game-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vasanthraidu800/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1732-find-the-highest-altitude](https://github.com/Vasanthraidu800/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -1233,10 +1238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
