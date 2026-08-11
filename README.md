@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/Vasanthraidu800/Leetcode/tree/master/0068-text-justification) |
 | [0139-word-break](https://github.com/Vasanthraidu800/Leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0179-largest-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/Vasanthraidu800/Leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vasanthraidu800/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vasanthraidu800/Leetcode/tree/master/0078-subsets) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/Vasanthraidu800/Leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/Vasanthraidu800/Leetcode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/Vasanthraidu800/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0566-reshape-the-matrix) |
