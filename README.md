@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vasanthraidu800/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Vasanthraidu800/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vasanthraidu800/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Vasanthraidu800/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vasanthraidu800/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1706-where-will-the-ball-fall](https://github.com/Vasanthraidu800/Leetcode/tree/master/1706-where-will-the-ball-fall) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Vasanthraidu800/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Vasanthraidu800/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vasanthraidu800/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-where-will-the-ball-fall](https://github.com/Vasanthraidu800/Leetcode/tree/master/1706-where-will-the-ball-fall) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vasanthraidu800/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/Vasanthraidu800/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2722-prime-in-diagonal](https://github.com/Vasanthraidu800/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2906-construct-product-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/2906-construct-product-matrix) |
