@@ -1012,6 +1012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vasanthraidu800/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Vasanthraidu800/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/0221-maximal-square) |
+| [0338-counting-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/Vasanthraidu800/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
@@ -1096,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Vasanthraidu800/Leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/Vasanthraidu800/Leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
