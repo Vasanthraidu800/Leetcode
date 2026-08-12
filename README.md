@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Vasanthraidu800/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vasanthraidu800/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vasanthraidu800/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vasanthraidu800/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Vasanthraidu800/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vasanthraidu800/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vasanthraidu800/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/Vasanthraidu800/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -562,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1010-powerful-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/1010-powerful-integers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vasanthraidu800/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/Vasanthraidu800/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Vasanthraidu800/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
@@ -1044,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Vasanthraidu800/Leetcode/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/Vasanthraidu800/Leetcode/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vasanthraidu800/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vasanthraidu800/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
@@ -1111,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vasanthraidu800/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vasanthraidu800/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1873-longest-nice-substring](https://github.com/Vasanthraidu800/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2032-two-out-of-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/2032-two-out-of-three) |
@@ -1204,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Vasanthraidu800/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Database
