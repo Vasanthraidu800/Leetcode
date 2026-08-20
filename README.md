@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Vasanthraidu800/Leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vasanthraidu800/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vasanthraidu800/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Vasanthraidu800/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vasanthraidu800/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
