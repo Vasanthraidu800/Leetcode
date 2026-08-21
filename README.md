@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Vasanthraidu800/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vasanthraidu800/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vasanthraidu800/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vasanthraidu800/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/Vasanthraidu800/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vasanthraidu800/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vasanthraidu800/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Vasanthraidu800/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/Vasanthraidu800/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Vasanthraidu800/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vasanthraidu800/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vasanthraidu800/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
@@ -862,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Vasanthraidu800/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/Vasanthraidu800/Leetcode/tree/master/2540-minimum-common-value) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vasanthraidu800/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3488-closest-equal-element-queries](https://github.com/Vasanthraidu800/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1144,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Vasanthraidu800/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Vasanthraidu800/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vasanthraidu800/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -1236,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vasanthraidu800/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vasanthraidu800/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Database
 |  |
