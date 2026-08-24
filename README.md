@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Vasanthraidu800/Leetcode/tree/master/0670-maximum-swap) |
 | [0826-soup-servings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0826-soup-servings) |
+| [0866-prime-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/0877-stone-game) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0900-reordered-power-of-2](https://github.com/Vasanthraidu800/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0866-prime-palindrome) |
 | [1585-the-kth-factor-of-n](https://github.com/Vasanthraidu800/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2507-number-of-common-factors](https://github.com/Vasanthraidu800/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Vasanthraidu800/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
@@ -1353,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0866-prime-palindrome) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Vasanthraidu800/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
