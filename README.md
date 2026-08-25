@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Vasanthraidu800/Leetcode/tree/master/1944-truncate-sentence) |
 | [1961-maximum-ice-cream-bars](https://github.com/Vasanthraidu800/Leetcode/tree/master/1961-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vasanthraidu800/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/Vasanthraidu800/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Vasanthraidu800/Leetcode/tree/master/2029-stone-game-ix) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vasanthraidu800/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0866-prime-palindrome) |
 | [1585-the-kth-factor-of-n](https://github.com/Vasanthraidu800/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/Vasanthraidu800/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Vasanthraidu800/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/Vasanthraidu800/Leetcode/tree/master/2614-prime-in-diagonal) |
@@ -1398,8 +1401,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
