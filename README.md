@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vasanthraidu800/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3606-coupon-code-validator](https://github.com/Vasanthraidu800/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3636-check-balanced-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3636-check-balanced-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vasanthraidu800/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3798-largest-even-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/3798-largest-even-number) |
 | [3811-reverse-degree-of-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vasanthraidu800/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vasanthraidu800/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vasanthraidu800/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Vasanthraidu800/Leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Matrix
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vasanthraidu800/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Vasanthraidu800/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vasanthraidu800/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
