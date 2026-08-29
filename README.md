@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/Vasanthraidu800/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [2906-construct-product-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vasanthraidu800/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vasanthraidu800/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1001,6 +1002,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1372,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vasanthraidu800/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Memoization
 |  |
 | ------- |
