@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vasanthraidu800/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Vasanthraidu800/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3488-closest-equal-element-queries](https://github.com/Vasanthraidu800/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vasanthraidu800/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Vasanthraidu800/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Vasanthraidu800/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/Vasanthraidu800/Leetcode/tree/master/2831-number-of-beautiful-pairs) |
 | [3115-maximum-prime-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vasanthraidu800/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Vasanthraidu800/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vasanthraidu800/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Geometry
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Vasanthraidu800/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Vasanthraidu800/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Vasanthraidu800/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3326-minimum-division-operations-to-make-array-non-decreasing](https://github.com/Vasanthraidu800/Leetcode/tree/master/3326-minimum-division-operations-to-make-array-non-decreasing) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
