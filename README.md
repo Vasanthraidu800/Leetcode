@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/Vasanthraidu800/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/Vasanthraidu800/Leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Vasanthraidu800/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vasanthraidu800/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1872-stone-game-viii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1872-stone-game-viii) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Vasanthraidu800/Leetcode/tree/master/0866-prime-palindrome) |
 | [1585-the-kth-factor-of-n](https://github.com/Vasanthraidu800/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/Vasanthraidu800/Leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2507-number-of-common-factors](https://github.com/Vasanthraidu800/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -1209,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
+| [1808-maximize-number-of-nice-divisors](https://github.com/Vasanthraidu800/Leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
 ## Merge Sort
 |  |
 | ------- |
