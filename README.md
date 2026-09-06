@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Vasanthraidu800/Leetcode/tree/master/2029-stone-game-ix) |
 | [2032-two-out-of-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/2032-two-out-of-three) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vasanthraidu800/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vasanthraidu800/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vasanthraidu800/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2029-stone-game-ix](https://github.com/Vasanthraidu800/Leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vasanthraidu800/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Vasanthraidu800/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
