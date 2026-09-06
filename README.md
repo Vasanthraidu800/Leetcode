@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Vasanthraidu800/Leetcode/tree/master/0068-text-justification) |
+| [0115-distinct-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Vasanthraidu800/Leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0179-largest-number) |
@@ -1089,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vasanthraidu800/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/Vasanthraidu800/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Vasanthraidu800/Leetcode/tree/master/0198-house-robber) |
