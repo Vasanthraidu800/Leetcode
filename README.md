@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vasanthraidu800/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Vasanthraidu800/Leetcode/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/Vasanthraidu800/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/Vasanthraidu800/Leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Vasanthraidu800/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vasanthraidu800/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Vasanthraidu800/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Vasanthraidu800/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -785,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Vasanthraidu800/Leetcode/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Vasanthraidu800/Leetcode/tree/master/0289-game-of-life) |
@@ -1133,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Vasanthraidu800/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Vasanthraidu800/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Vasanthraidu800/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Vasanthraidu800/Leetcode/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/Vasanthraidu800/Leetcode/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/Vasanthraidu800/Leetcode/tree/master/0784-letter-case-permutation) |
@@ -1350,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Vasanthraidu800/Leetcode/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Vasanthraidu800/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Vasanthraidu800/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Vasanthraidu800/Leetcode/tree/master/0110-balanced-binary-tree) |
