@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Vasanthraidu800/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Vasanthraidu800/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/Vasanthraidu800/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vasanthraidu800/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Vasanthraidu800/Leetcode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1808-maximize-number-of-nice-divisors](https://github.com/Vasanthraidu800/Leetcode/tree/master/1808-maximize-number-of-nice-divisors) |
@@ -1133,6 +1134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1406-stone-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1406-stone-game-iii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vasanthraidu800/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vasanthraidu800/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1871-jump-game-vii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1871-jump-game-vii) |
@@ -1284,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Vasanthraidu800/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vasanthraidu800/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Vasanthraidu800/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vasanthraidu800/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -1335,6 +1338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vasanthraidu800/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vasanthraidu800/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vasanthraidu800/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
