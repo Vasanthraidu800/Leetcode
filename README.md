@@ -567,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Vasanthraidu800/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1362-closest-divisors](https://github.com/Vasanthraidu800/Leetcode/tree/master/1362-closest-divisors) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Vasanthraidu800/Leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Vasanthraidu800/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1406-stone-game-iii) |
 | [1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/1414-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0593-valid-square](https://github.com/Vasanthraidu800/Leetcode/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Vasanthraidu800/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Vasanthraidu800/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Vasanthraidu800/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Simulation
 |  |
