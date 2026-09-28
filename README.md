@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/Vasanthraidu800/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vasanthraidu800/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1530-check-if-a-string-can-break-another-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1530-check-if-a-string-can-break-another-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1651-shuffle-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1651-shuffle-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vasanthraidu800/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -1354,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
@@ -1535,4 +1537,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
