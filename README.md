@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Vasanthraidu800/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vasanthraidu800/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vasanthraidu800/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vasanthraidu800/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Vasanthraidu800/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vasanthraidu800/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2614-prime-in-diagonal](https://github.com/Vasanthraidu800/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2722-prime-in-diagonal](https://github.com/Vasanthraidu800/Leetcode/tree/master/2722-prime-in-diagonal) |
 | [2906-construct-product-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/2906-construct-product-matrix) |
@@ -1174,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vasanthraidu800/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vasanthraidu800/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Vasanthraidu800/Leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vasanthraidu800/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/Vasanthraidu800/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vasanthraidu800/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1538,4 +1541,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vasanthraidu800/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
