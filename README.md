@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Vasanthraidu800/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vasanthraidu800/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1002-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Vasanthraidu800/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0891-score-after-flipping-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0891-score-after-flipping-matrix) |
 | [0917-boats-to-save-people](https://github.com/Vasanthraidu800/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vasanthraidu800/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -1363,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Vasanthraidu800/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0844-backspace-string-compare](https://github.com/Vasanthraidu800/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vasanthraidu800/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -1551,6 +1554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vasanthraidu800/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
