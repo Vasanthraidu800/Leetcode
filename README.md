@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4039-compute-decimal-representation](https://github.com/Vasanthraidu800/Leetcode/tree/master/4039-compute-decimal-representation) |
@@ -666,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [4039-compute-decimal-representation](https://github.com/Vasanthraidu800/Leetcode/tree/master/4039-compute-decimal-representation) |
 ## Enumeration
 |  |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Vasanthraidu800/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
@@ -1105,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vasanthraidu800/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3886-sum-of-sortable-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Bucket Sort
 |  |
 | ------- |
