@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vasanthraidu800/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Vasanthraidu800/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1734-decode-xored-permutation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1734-decode-xored-permutation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vasanthraidu800/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Vasanthraidu800/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
@@ -1312,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Vasanthraidu800/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1720-decode-xored-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/1720-decode-xored-array) |
+| [1734-decode-xored-permutation](https://github.com/Vasanthraidu800/Leetcode/tree/master/1734-decode-xored-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Vasanthraidu800/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1873-longest-nice-substring](https://github.com/Vasanthraidu800/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
