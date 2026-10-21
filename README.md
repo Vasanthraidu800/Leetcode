@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Vasanthraidu800/Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Vasanthraidu800/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Vasanthraidu800/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Vasanthraidu800/Leetcode/tree/master/0068-text-justification) |
@@ -776,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Vasanthraidu800/Leetcode/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Vasanthraidu800/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Vasanthraidu800/Leetcode/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0330-patching-array) |
@@ -1197,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vasanthraidu800/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Vasanthraidu800/Leetcode/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Vasanthraidu800/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Vasanthraidu800/Leetcode/tree/master/0120-triangle) |
@@ -1346,6 +1349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vasanthraidu800/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Vasanthraidu800/Leetcode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/Vasanthraidu800/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Vasanthraidu800/Leetcode/tree/master/0273-integer-to-english-words) |
