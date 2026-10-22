@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Vasanthraidu800/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Vasanthraidu800/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vasanthraidu800/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vasanthraidu800/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vasanthraidu800/Leetcode/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Vasanthraidu800/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Vasanthraidu800/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Vasanthraidu800/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Vasanthraidu800/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -866,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vasanthraidu800/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Vasanthraidu800/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -1244,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Vasanthraidu800/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vasanthraidu800/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Vasanthraidu800/Leetcode/tree/master/0078-subsets) |
@@ -1650,6 +1654,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vasanthraidu800/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Vasanthraidu800/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Vasanthraidu800/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
