@@ -1245,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vasanthraidu800/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Vasanthraidu800/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Vasanthraidu800/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Vasanthraidu800/Leetcode/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Vasanthraidu800/Leetcode/tree/master/0089-gray-code) |
@@ -1650,4 +1651,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Vasanthraidu800/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
