@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vasanthraidu800/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -908,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vasanthraidu800/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vasanthraidu800/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vasanthraidu800/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vasanthraidu800/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
@@ -1516,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vasanthraidu800/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1527,6 +1530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Vasanthraidu800/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Vasanthraidu800/Leetcode/tree/master/1345-jump-game-iv) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1560,6 +1564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vasanthraidu800/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Vasanthraidu800/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vasanthraidu800/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
