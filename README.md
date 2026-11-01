@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Vasanthraidu800/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vasanthraidu800/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Vasanthraidu800/Leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Vasanthraidu800/Leetcode/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Vasanthraidu800/Leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0447-number-of-boomerangs](https://github.com/Vasanthraidu800/Leetcode/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/Vasanthraidu800/Leetcode/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/0539-minimum-time-difference) |
