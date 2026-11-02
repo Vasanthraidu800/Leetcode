@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vasanthraidu800/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Vasanthraidu800/Leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Vasanthraidu800/Leetcode/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Vasanthraidu800/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/Vasanthraidu800/Leetcode/tree/master/0475-heaters) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0447-number-of-boomerangs](https://github.com/Vasanthraidu800/Leetcode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Vasanthraidu800/Leetcode/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/Vasanthraidu800/Leetcode/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -1075,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Vasanthraidu800/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Vasanthraidu800/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Vasanthraidu800/Leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Vasanthraidu800/Leetcode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Vasanthraidu800/Leetcode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Vasanthraidu800/Leetcode/tree/master/0539-minimum-time-difference) |
