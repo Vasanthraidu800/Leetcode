@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Vasanthraidu800/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vasanthraidu800/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Vasanthraidu800/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Vasanthraidu800/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3830-find-closest-person](https://github.com/Vasanthraidu800/Leetcode/tree/master/3830-find-closest-person) |
 | [3871-count-commas-in-range-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3871-count-commas-in-range-ii) |
