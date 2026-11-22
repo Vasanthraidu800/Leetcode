@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2027-minimum-moves-to-convert-string) |
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Vasanthraidu800/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vasanthraidu800/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Vasanthraidu800/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vasanthraidu800/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
