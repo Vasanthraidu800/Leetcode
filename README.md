@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vasanthraidu800/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Vasanthraidu800/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Vasanthraidu800/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vasanthraidu800/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/Vasanthraidu800/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vasanthraidu800/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Vasanthraidu800/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vasanthraidu800/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Vasanthraidu800/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Vasanthraidu800/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
