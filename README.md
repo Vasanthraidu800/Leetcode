@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3934-smallest-unique-subarray](https://github.com/Vasanthraidu800/Leetcode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Vasanthraidu800/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4039-compute-decimal-representation](https://github.com/Vasanthraidu800/Leetcode/tree/master/4039-compute-decimal-representation) |
 ## Hash Table
 |  |
@@ -930,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Vasanthraidu800/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/Vasanthraidu800/Leetcode/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -1211,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/Vasanthraidu800/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Vasanthraidu800/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3886-sum-of-sortable-integers](https://github.com/Vasanthraidu800/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1269,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Vasanthraidu800/Leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vasanthraidu800/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vasanthraidu800/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Vasanthraidu800/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
